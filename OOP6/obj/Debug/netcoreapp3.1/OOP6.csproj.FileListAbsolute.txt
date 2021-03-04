@@ -1,0 +1,12 @@
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP6\bin\Debug\netcoreapp3.1\OOP6.exe
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP6\bin\Debug\netcoreapp3.1\OOP6.deps.json
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP6\bin\Debug\netcoreapp3.1\OOP6.runtimeconfig.json
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP6\bin\Debug\netcoreapp3.1\OOP6.runtimeconfig.dev.json
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP6\bin\Debug\netcoreapp3.1\OOP6.dll
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP6\bin\Debug\netcoreapp3.1\OOP6.pdb
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP6\obj\Debug\netcoreapp3.1\OOP6.AssemblyInfoInputs.cache
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP6\obj\Debug\netcoreapp3.1\OOP6.AssemblyInfo.cs
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP6\obj\Debug\netcoreapp3.1\OOP6.csproj.CoreCompileInputs.cache
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP6\obj\Debug\netcoreapp3.1\OOP6.dll
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP6\obj\Debug\netcoreapp3.1\OOP6.pdb
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP6\obj\Debug\netcoreapp3.1\OOP6.genruntimeconfig.cache

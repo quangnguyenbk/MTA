@@ -1,0 +1,13 @@
+C:\Users\Huy Hoang\source\repos\IntroducingCS\DemoFileWriter\bin\Debug\netcoreapp3.1\DemoFileWriter.exe
+C:\Users\Huy Hoang\source\repos\IntroducingCS\DemoFileWriter\bin\Debug\netcoreapp3.1\DemoFileWriter.deps.json
+C:\Users\Huy Hoang\source\repos\IntroducingCS\DemoFileWriter\bin\Debug\netcoreapp3.1\DemoFileWriter.runtimeconfig.json
+C:\Users\Huy Hoang\source\repos\IntroducingCS\DemoFileWriter\bin\Debug\netcoreapp3.1\DemoFileWriter.runtimeconfig.dev.json
+C:\Users\Huy Hoang\source\repos\IntroducingCS\DemoFileWriter\bin\Debug\netcoreapp3.1\DemoFileWriter.dll
+C:\Users\Huy Hoang\source\repos\IntroducingCS\DemoFileWriter\bin\Debug\netcoreapp3.1\DemoFileWriter.pdb
+C:\Users\Huy Hoang\source\repos\IntroducingCS\DemoFileWriter\obj\Debug\netcoreapp3.1\DemoFileWriter.csprojAssemblyReference.cache
+C:\Users\Huy Hoang\source\repos\IntroducingCS\DemoFileWriter\obj\Debug\netcoreapp3.1\DemoFileWriter.AssemblyInfoInputs.cache
+C:\Users\Huy Hoang\source\repos\IntroducingCS\DemoFileWriter\obj\Debug\netcoreapp3.1\DemoFileWriter.AssemblyInfo.cs
+C:\Users\Huy Hoang\source\repos\IntroducingCS\DemoFileWriter\obj\Debug\netcoreapp3.1\DemoFileWriter.csproj.CoreCompileInputs.cache
+C:\Users\Huy Hoang\source\repos\IntroducingCS\DemoFileWriter\obj\Debug\netcoreapp3.1\DemoFileWriter.dll
+C:\Users\Huy Hoang\source\repos\IntroducingCS\DemoFileWriter\obj\Debug\netcoreapp3.1\DemoFileWriter.pdb
+C:\Users\Huy Hoang\source\repos\IntroducingCS\DemoFileWriter\obj\Debug\netcoreapp3.1\DemoFileWriter.genruntimeconfig.cache

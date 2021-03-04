@@ -1,0 +1,12 @@
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP4\bin\Debug\netcoreapp3.1\OOP4.exe
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP4\bin\Debug\netcoreapp3.1\OOP4.deps.json
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP4\bin\Debug\netcoreapp3.1\OOP4.runtimeconfig.json
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP4\bin\Debug\netcoreapp3.1\OOP4.runtimeconfig.dev.json
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP4\bin\Debug\netcoreapp3.1\OOP4.dll
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP4\bin\Debug\netcoreapp3.1\OOP4.pdb
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP4\obj\Debug\netcoreapp3.1\OOP4.AssemblyInfoInputs.cache
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP4\obj\Debug\netcoreapp3.1\OOP4.AssemblyInfo.cs
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP4\obj\Debug\netcoreapp3.1\OOP4.csproj.CoreCompileInputs.cache
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP4\obj\Debug\netcoreapp3.1\OOP4.dll
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP4\obj\Debug\netcoreapp3.1\OOP4.pdb
+C:\Users\Huy Hoang\source\repos\IntroducingCS\OOP4\obj\Debug\netcoreapp3.1\OOP4.genruntimeconfig.cache

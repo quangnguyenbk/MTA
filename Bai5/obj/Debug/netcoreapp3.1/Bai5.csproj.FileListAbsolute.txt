@@ -1,0 +1,13 @@
+C:\Users\Huy Hoang\source\repos\IntroducingCS\Bai5\bin\Debug\netcoreapp3.1\Bai5.exe
+C:\Users\Huy Hoang\source\repos\IntroducingCS\Bai5\bin\Debug\netcoreapp3.1\Bai5.deps.json
+C:\Users\Huy Hoang\source\repos\IntroducingCS\Bai5\bin\Debug\netcoreapp3.1\Bai5.runtimeconfig.json
+C:\Users\Huy Hoang\source\repos\IntroducingCS\Bai5\bin\Debug\netcoreapp3.1\Bai5.runtimeconfig.dev.json
+C:\Users\Huy Hoang\source\repos\IntroducingCS\Bai5\bin\Debug\netcoreapp3.1\Bai5.dll
+C:\Users\Huy Hoang\source\repos\IntroducingCS\Bai5\bin\Debug\netcoreapp3.1\Bai5.pdb
+C:\Users\Huy Hoang\source\repos\IntroducingCS\Bai5\obj\Debug\netcoreapp3.1\Bai5.csprojAssemblyReference.cache
+C:\Users\Huy Hoang\source\repos\IntroducingCS\Bai5\obj\Debug\netcoreapp3.1\Bai5.AssemblyInfoInputs.cache
+C:\Users\Huy Hoang\source\repos\IntroducingCS\Bai5\obj\Debug\netcoreapp3.1\Bai5.AssemblyInfo.cs
+C:\Users\Huy Hoang\source\repos\IntroducingCS\Bai5\obj\Debug\netcoreapp3.1\Bai5.csproj.CoreCompileInputs.cache
+C:\Users\Huy Hoang\source\repos\IntroducingCS\Bai5\obj\Debug\netcoreapp3.1\Bai5.dll
+C:\Users\Huy Hoang\source\repos\IntroducingCS\Bai5\obj\Debug\netcoreapp3.1\Bai5.pdb
+C:\Users\Huy Hoang\source\repos\IntroducingCS\Bai5\obj\Debug\netcoreapp3.1\Bai5.genruntimeconfig.cache
